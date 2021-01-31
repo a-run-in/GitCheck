@@ -7,6 +7,6 @@ Here is a new line
 
 Here is another line of change
 
-Here is another line which needs to ne added separately.
+Here is another line which needs to be added separately.
 
 
